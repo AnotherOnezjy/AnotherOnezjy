@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World
+
+My name is Zhang Junyi. Welcome to [my blog](https://anotheronezjy.github.io/)!
 
 <!--
 **AnotherOnezjy/AnotherOnezjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anotheronezjy&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anotheronezjy&layout=compact"/>
+</p>
