@@ -20,6 +20,8 @@
     - [Miracle/LUOGU](https://github.com/AnotherOnezjy/LUOGU)
 - Team
   - [Slapaf-Room211](https://github.com/Slapaf)
+- Blog
+  - [Miracle-Blog](https://anotheronezjy.github.io)
 
 ## 📈Statistics
 
