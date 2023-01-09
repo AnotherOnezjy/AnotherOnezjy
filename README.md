@@ -23,14 +23,14 @@
 - Blog
   - [Miracle-Blog](https://anotheronezjy.github.io)
 
-<!-- ## 📈Statistics
+## 📈Statistics
 
 <div align="center">
 <span>&emsp;&emsp;</span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=anotheronezjy" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anotheronezjy&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
-</div> -->
+</div>
 
-<!-- <div align="center">
+<div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=anotheronezjy" />
-</div> -->
+</div>
