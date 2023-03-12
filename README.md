@@ -18,6 +18,7 @@
     - [Slapaf/HUST-SE-2022](https://github.com/Slapaf/HUST-SE-2022)
   - Algorithm
     - [Miracle/LUOGU](https://github.com/AnotherOnezjy/LUOGU)
+    - [Miracle/CCF-CSP](https://github.com/AnotherOnezjy/CCF-CSP)
 - Team
   - [Slapaf-Room211](https://github.com/Slapaf)
 - Blog
