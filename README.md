@@ -25,11 +25,13 @@
 - GitHub team
   - [Slapaf-Room211](https://github.com/Slapaf)
 - Blog site
-  - [Miracle-Blog](https://anotheronezjy.github.io)
+  - [Old Blog](https://anotheronezjy.github.io)
 - Course wiki
-  - [hust-cs-helper](https://hust-cs-helper.vercel.app/zh-CN/)(testing...)
+  - [Course Wiki](https://hust-cs-helper.vercel.app/zh-CN/)
 
 ## 📈Statistics
+
+[![wakatime](https://wakatime.com/badge/user/f107fa75-7f2d-4120-a38b-4303f3427493.svg)](https://wakatime.com/@f107fa75-7f2d-4120-a38b-4303f3427493)
 
 <div align="center">
 <span>&emsp;&emsp;</span>
