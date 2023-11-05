@@ -8,25 +8,28 @@
 - Hometown: Jingmen, Hubei Province in China
 - Educational experience
   - Undergraduate(2020.09-Now): Computer Science, Huazhong University of Science and Technology
-- Projects
-  - Homework
+<details><summary>Projects</summary><p>
+
+  * **Homework**
     - [Miracle/HUST-CS-Homework](https://github.com/AnotherOnezjy/HUST-CS-Homework)
     - [Miracle/HUST-DB-2022](https://github.com/AnotherOnezjy/HUST-DB-2022)
     - [Miracle/HUST-BDA-2022](https://github.com/AnotherOnezjy/HUST-BDA-2022)
     - [Miracle/HUST-OS-2022](https://github.com/AnotherOnezjy/HUST-OS-2022)
     - [Miracle/HUST-CA-2023](https://github.com/AnotherOnezjy/HUST-CA-2023)
     - [Miracle/HUST-CV-2023](https://github.com/AnotherOnezjy/HUST-CV-2023)
-  - Teamwork
+  * **Teamwork**
     - [Slapaf/HUST-CPU-2022](https://github.com/Slapaf/HUST-CPU-2022)
     - [Slapaf/HUST-SE-2022](https://github.com/Slapaf/HUST-SE-2022)
-  - Algorithm
+  * **Algorithm**
     - [Miracle/LUOGU](https://github.com/AnotherOnezjy/LUOGU)
     - [Miracle/CCF-CSP](https://github.com/AnotherOnezjy/CCF-CSP)
-- Blog site
+* **Blog site**
   - [Old Blog](https://anotheronezjy.github.io)
   - [New Blog](https://nobody0x0.vercel.app)
-- Course wiki
+* **Course wiki**
   - [Course Wiki](https://hust-cs-helper.vercel.app/zh-CN/)
+
+</p></details>
 
 ## 📈Statistics
 
