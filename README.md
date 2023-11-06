@@ -7,8 +7,9 @@
 - Name: Junyi Zhang
 - Hometown: Jingmen, Hubei Province in China
 - Educational experience
+
   - Undergraduate(2020.09-Now): Computer Science, Huazhong University of Science and Technology
-<details><summary>Projects</summary><p>
+  <details><summary>Projects</summary><p>
 
   * **Homework**
     - [Miracle/HUST-CS-Homework](https://github.com/AnotherOnezjy/HUST-CS-Homework)
@@ -20,16 +21,14 @@
   * **Teamwork**
     - [Slapaf/HUST-CPU-2022](https://github.com/Slapaf/HUST-CPU-2022)
     - [Slapaf/HUST-SE-2022](https://github.com/Slapaf/HUST-SE-2022)
-  * **Algorithm**
-    - [Miracle/LUOGU](https://github.com/AnotherOnezjy/LUOGU)
-    - [Miracle/CCF-CSP](https://github.com/AnotherOnezjy/CCF-CSP)
+  * **Algorithm** - [Miracle/LUOGU](https://github.com/AnotherOnezjy/LUOGU) - [Miracle/CCF-CSP](https://github.com/AnotherOnezjy/CCF-CSP)
+  </p></details>
+
 * **Blog site**
   - [Old Blog](https://anotheronezjy.github.io)
   - [New Blog](https://nobody0x0.vercel.app)
 * **Course wiki**
   - [Course Wiki](https://hust-cs-helper.vercel.app/zh-CN/)
-
-</p></details>
 
 ## 📈Statistics
 
