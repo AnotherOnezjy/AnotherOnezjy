@@ -12,7 +12,7 @@
   - [Old Blog](https://nobody0x0.me/)
   - [New Blog](https://nobody0x0.vercel.app)
 - **Course wiki**
-  - [Course Wiki](https://hust-cs-helper.vercel.app/zh-CN/)
+  - [Course Wiki](https://onedrive-share-miracle.vercel.app/zh-CN/)
 
  <details><summary>Projects</summary><p>
 
