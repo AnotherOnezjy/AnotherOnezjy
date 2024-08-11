@@ -7,8 +7,8 @@
 - **Name**: Junyi Zhang
 - **Hometown**: Jingmen, Hubei Province in China
 - **Educational experience**
-  - Undergraduate(2020.09-2024.06): Computer Science and Technology, Huazhong University of Science and Technology
-  - Master(incoming): Computer Science and Technology, Huazhong University of Science and Technology
+  - Bachelor (2020.09-2024.06): Computer Science, Huazhong University of Science and Technology
+  - Master (incoming): Computer Science, Huazhong University of Science and Technology
 - **Blog site**
   - [Old Blog](https://nobody0x0.me/)
   - [New Blog](https://nobody0x0.vercel.app)
