@@ -34,7 +34,7 @@
 
 ## 📈Statistics
 
-[![wakatime](https://wakatime.com/badge/user/f107fa75-7f2d-4120-a38b-4303f3427493.svg)](https://wakatime.com/@f107fa75-7f2d-4120-a38b-4303f3427493) ![C](https://img.shields.io/badge/language-C-brown?logo=Ionic&logoColor=white) ![C++](https://img.shields.io/badge/language-C++-red?logo=Ionic&logoColor=white) ![Python](https://img.shields.io/badge/language-Python-green?logo=Ionic&logoColor=white) ![Golang](https://img.shields.io/badge/language-Golang-cyan?logo=Ionic&logoColor=white)
+[![wakatime](https://wakatime.com/badge/user/f107fa75-7f2d-4120-a38b-4303f3427493.svg)](https://wakatime.com/@f107fa75-7f2d-4120-a38b-4303f3427493) ![C](https://img.shields.io/badge/language-C-brown?logo=Ionic&logoColor=white) ![C++](https://img.shields.io/badge/language-C++-red?logo=Ionic&logoColor=white) ![Python](https://img.shields.io/badge/language-Python-green?logo=Ionic&logoColor=white) ![Golang](https://img.shields.io/badge/language-Golang-darkturquoise?logo=Ionic&logoColor=white) ![Rust](https://img.shields.io/badge/language-Rust-brown?logo=Ionic&logoColor=white)
 
 <div align="center">
 <span>&emsp;&emsp;</span>
